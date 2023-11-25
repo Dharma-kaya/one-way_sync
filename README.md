@@ -1,2 +1,2 @@
-# obsidian-notes
+# one-way_sync
 Person notes
